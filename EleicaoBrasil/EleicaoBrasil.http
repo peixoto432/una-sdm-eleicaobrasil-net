@@ -1,0 +1,6 @@
+@EleicaoBrasil_HostAddress = http://localhost:5245
+
+GET {{EleicaoBrasil_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
